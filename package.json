@@ -1,14 +1,11 @@
 {
-  "name": "data_fetcher",
+  "name": "about-word",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
-    "nodemon": "^1.19.1",
-    "puppeteer": "^1.19.0",
-    "request": "^2.88.0"
+    "puppeteer": "^1.19.0"
   },
   "devDependencies": {},
   "scripts": {
